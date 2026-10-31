@@ -1,0 +1,92 @@
+{
+  "site": {
+    "title": "拾级而上 · Aufdenstufen",
+    "brandMark": "拾",
+    "brandZh": "拾级而上",
+    "brandEn": "Aufdenstufen",
+    "description": "拾级而上 Aufdenstufen —— 关于阅读、影像与游戏的一份个人档案。",
+    "bilibili": "https://space.bilibili.com/394732769"
+  },
+  "hero": {
+    "eyebrow": "个人档案 · No.07 · 2019—2026",
+    "titleMain": "拾级",
+    "titleMark": "而上",
+    "lede": "这是一个由湖南人播报的动漫杂谈外加泛娱乐杂谈频道！你可以叫我拾级！或者Auf，或者像某人天天叫我松饼（？\n我的频道将会涉及：抽象！深度解析！村上春树！半专业解析！我爱咋更新咋更新！Emma Myers！",
+    "primaryLabel": "开始阅读",
+    "secondaryLabel": "B 站频道"
+  },
+  "feature": {
+    "sectionTitle": "本期推荐",
+    "sectionNote": "Featured · No.01",
+    "kicker": "Silver Wattle",
+    "artTitle": "银荆的告白",
+    "seal": "荐",
+    "title": "《银荆的告白》",
+    "meta": [
+      "杂谈",
+      "2026 · 秋",
+      "系列作品"
+    ],
+    "body": "来自八目迷的，关于LGBTQ、青春的小说。",
+    "linkText": "阅读全文",
+    "href": "https://space.bilibili.com/394732769/lists/9284045?type=season"
+  },
+  "articles": {
+    "headTitle": "全部文章",
+    "note": "",
+    "items": [
+      {
+        "category": "短波漫游",
+        "badge": "新视频",
+        "title": "从柏拉图到回避依恋，我们终将成为你。",
+        "desc": "从柏拉图聊到回避依恋，我借《终将成为你》，探讨爱情观。",
+        "href": "https://www.bilibili.com/video/BV14Uxy6BEda",
+        "keywords": "终将成为你 短波漫游"
+      },
+      {
+        "category": "茶余漫谈",
+        "badge": "短评",
+        "title": "年度最佳校园喜剧！绝对纯粹的动画热爱者！",
+        "desc": "在这个年代还有如此纯粹的作品真的不多见了。",
+        "href": "https://www.bilibili.com/video/BV15xx76zEg1",
+        "keywords": "茶余漫谈 脑洞学生会"
+      },
+      {
+        "category": "茶余漫谈",
+        "badge": "吐槽",
+        "title": "你到底算什么边缘行者！",
+        "desc": "期待多年的大份。",
+        "href": "https://www.bilibili.com/video/BV16nnp6SEkk",
+        "keywords": "茶余漫谈 赛博朋克边缘行者2"
+      },
+      {
+        "category": "短波漫游",
+        "badge": "史上最强",
+        "title": "天才与庸才：泡沫经济后的青年危机——由《冰菓》所想到的",
+        "desc": "目前很喜欢的一次作品。",
+        "href": "https://www.bilibili.com/video/BV17saP6sEqW",
+        "keywords": "冰菓 短波漫游"
+      },
+      {
+        "category": "短波漫游",
+        "badge": "随记",
+        "title": "夏天结束了，谁还记得你？",
+        "desc": "夏天结束的我们，回忆夏天的美好。",
+        "href": "https://www.bilibili.com/video/BV1CwhA64EXE",
+        "keywords": "夏天 短波漫游 夏日重现"
+      }
+    ]
+  },
+  "about": {
+    "headTitle": "关于",
+    "line1": "在艺术之中",
+    "line2": "拾级而上",
+    "paragraphs": [
+      "如果你累了，不妨请坐在下午暖阳下的咖啡厅，打开已然老旧但仍然值得信任的收音机，聆听一下漂泊的旅人所传出的音讯。\n      各位好我是拾级（（shè jí））！欢迎来到漂流电台！\n这是一个由湖南人播报的动漫杂谈外加泛娱乐杂谈频道！你可以叫我拾级！或者Auf，或者像某人天天叫我松饼（？\n      我的频道将会涉及：抽象！深度解析！村上春树！半专业解析！我爱咋更新咋更新！Emma Myers！\n      总而言之，创立这个频道的目的就是将我的思考和观点带给更多的人，嗯，听起来挺自私的，但这不就是电台的意义吗？\n      我希望将这个频道做出我个人的风格，就像大家看到的一样——精心设计的封面，舒适的视频观看体验，以及和谐客观的讨论环境。就如同我个人对待各种事情的宗旨一样——客观。\n      最后本频道的标语是：不顾一切的人才不虚此行。来自我当年看9的轶事的一句结语，我很有感触。\n      所以啊，欢迎各位闲暇之余点开我的视频，听一听来自电波的共鸣。"
+    ]
+  },
+  "footer": {
+    "copyright": "© 2019—2026 拾级而上 · Aufdenstufen",
+    "note": "手写 HTML · 无追踪 · 无广告"
+  }
+}
